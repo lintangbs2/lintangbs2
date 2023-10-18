@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+my main account is https://github.com/lintang-b-s
 
 - 🔭 I’m currently working on Undergraduate in Computer Science in Gadjah Mada University
 - 🌱 I’m currently learning  Backend Engineering, Distributed System, Golang, Algorithm & Data Structure
